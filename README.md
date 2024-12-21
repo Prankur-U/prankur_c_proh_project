@@ -1,1 +1,2 @@
-# prankur_c_proh_project
+# prankur_c_prog_project
+its a quize
